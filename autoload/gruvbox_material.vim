@@ -168,7 +168,7 @@ function! gruvbox_material#get_palette(background, foreground, colors_override) 
             \ 'red':              ['#ea6962',   '167'],
             \ 'orange':           ['#e78a4e',   '208'],
             \ 'yellow':           ['#d8a657',   '214'],
-            \ 'green':            ['#81a2be',   '142'],
+            \ 'green':            ['#9e96b6',   '142'],
             \ 'aqua':             ['#a9b665',   '108'],
             \ 'blue':             ['#9e96b6',   '109'],
             \ 'purple':           ['#e78a4e',   '175'],
